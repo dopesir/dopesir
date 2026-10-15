@@ -1,6 +1,6 @@
-# Hi, I'm Vishnu 👋
+# Hi, I'm dopesir (nobu) 👋
 
-I'm a software developer based in Jaipur, India. I build mobile apps, client automation workflows, and lightweight open-source tools.
+I'm a developer based in Jaipur, India. I build mobile apps, practical client automations, and lightweight open-source tools.
 
 <p align="left">
   <a href="https://nobuswork.pages.dev"><img src="https://img.shields.io/badge/Studio-Nobuswork-000000?style=flat-square" alt="Nobuswork"></a>
@@ -23,9 +23,10 @@ I'm a software developer based in Jaipur, India. I build mobile apps, client aut
 * 🛠️ I like building things that solve practical problems, whether it's mobile media engines, full-stack web platforms, or developer utilities.
 * 📱 Outside of writing code, I enjoy testing and debugging on real physical devices, tinkering with electronics, and exploring how systems behave under the hood.
 * 🎓 **[Funsul Wangdu](https://github.com/dopesir/funsul-wangdu)** — The origin story. My very first repository.
+* 👤 **Identity**: Publicly known as **dopesir** (or **nobu**). For professional contracts and paid client work, you'll know me as **Vishnu** via [Nobuswork](https://nobuswork.pages.dev).
 
 ---
 
 ### 📬 Connect
-* 💼 **Email:** [nobuswork.services@gmail.com](mailto:nobuswork.services@gmail.com)
-* 🌐 **Portfolio:** [nobuswork.pages.dev](https://nobuswork.pages.dev)
+* 💼 **Paid Inquiries / Client Work:** [nobuswork.services@gmail.com](mailto:nobuswork.services@gmail.com)
+* 🌐 **Studio & Portfolio:** [nobuswork.pages.dev](https://nobuswork.pages.dev)
