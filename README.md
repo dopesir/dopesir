@@ -1,39 +1,31 @@
-# Hi there, I'm DOPESIR (Nobu) 👋
+# Hi, I'm Vishnu 👋
+
+I'm a software developer based in Jaipur, India. I build mobile apps, client automation workflows, and lightweight open-source tools.
 
 <p align="left">
-  <a href="https://nobuswork.pages.dev"><img src="https://img.shields.io/badge/Agency-Nobuswork-000000?style=for-the-badge" alt="Nobuswork"></a>
-  <a href="mailto:nobuswork.services@gmail.com"><img src="https://img.shields.io/badge/Contact-nobuswork.services%40gmail.com-D14836?style=for-the-badge" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Location-Jaipur%2C%20India-blue?style=for-the-badge" alt="Location">
+  <a href="https://nobuswork.pages.dev"><img src="https://img.shields.io/badge/Studio-Nobuswork-000000?style=flat-square" alt="Nobuswork"></a>
+  <a href="mailto:nobuswork.services@gmail.com"><img src="https://img.shields.io/badge/Email-nobuswork.services%40gmail.com-D14836?style=flat-square" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Location-Jaipur%2C%20India-blue?style=flat-square" alt="Location">
 </p>
 
 ---
 
-### 🚀 Identity & Craft
-* **Handle / Community:** **DOPESIR** *(also known as **Nobu**)*
-* **Professional Name:** **Vishnu**
-* **Founder & Lead Architect:** **[Nobuswork](https://nobuswork.pages.dev)** — *Premier AI Agent Agency & Software Studio engineering 24/7 AI Receptionists, custom autonomous operations agents, and high-performance digital platforms.*
+### 🔨 What I'm Working On
+
+* 📱 **DRIFT** — A privacy-focused video streaming and media player app for Android and iOS built with React Native and Kotlin.
+* 🤖 **[Nobuswork](https://nobuswork.pages.dev)** — Helping service businesses set up voice and WhatsApp automations to capture missed leads and bookings.
+* 🦾 **[Universal Frontier Harness](https://github.com/dopesir/universal-frontier-harness)** — A zero-dependency Python operational kernel and AST linter that prevents AI coding assistants from prematurely marking tasks as complete.
 
 ---
 
-### 🛠️ Core Engineering & Systems Focus
+### 💡 A Bit About Me
 
-```
-  AI & Autonomous Agents  │ Agentic Runtimes, Voice & WhatsApp AI Receptionists, AST Linters, LLMs
-  Full-Stack Engineering  │ Next.js, React, Astro, TypeScript, Node.js, Python
-  Databases & Cache       │ Upstash Redis, PostgreSQL, SQLite, Edge Key-Value
-  Cloud & Edge Infra      │ Cloudflare Workers & Pages, Vercel, REST APIs, Webhooks
-```
+* 🛠️ I like building things that solve practical problems, whether it's mobile media engines, full-stack web platforms, or developer utilities.
+* 📱 Outside of writing code, I enjoy testing and debugging on real physical devices, tinkering with electronics, and exploring how systems behave under the hood.
+* 🎓 **[Funsul Wangdu](https://github.com/dopesir/funsul-wangdu)** — The origin story. My very first repository.
 
 ---
 
-### 🌟 Featured Highlights
-
-* 🦾 **[Universal Frontier Harness](https://github.com/dopesir/universal-frontier-harness)** — Deterministic reliability runtime, active mechanical hooks, and senior-SWE operational framework for AI coding agents.
-* 🌐 **[Nobuswork Studio](https://nobuswork.pages.dev)** — Autonomous business operations, 24/7 AI Receptionists, and revenue-recovery automation systems.
-* 🎓 **[Funsul Wangdu](https://github.com/dopesir/funsul-wangdu)** — *The origin story. The very first handwritten code repository.*
-
----
-
-### 📬 Get in Touch
-* 💼 **Business Inquiries:** [nobuswork.services@gmail.com](mailto:nobuswork.services@gmail.com)
-* 🌐 **Portfolio & Studio:** [nobuswork.pages.dev](https://nobuswork.pages.dev)
+### 📬 Connect
+* 💼 **Email:** [nobuswork.services@gmail.com](mailto:nobuswork.services@gmail.com)
+* 🌐 **Portfolio:** [nobuswork.pages.dev](https://nobuswork.pages.dev)
