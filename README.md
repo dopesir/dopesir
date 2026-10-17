@@ -14,7 +14,7 @@ I'm a developer based in Jaipur, India. I build mobile apps, practical client au
 
 * 📱 **DRIFT** — A privacy-focused video streaming and media player app for Android and iOS built with React Native and Kotlin.
 * 🤖 **[Nobuswork](https://nobuswork.pages.dev)** — Helping service businesses set up voice and WhatsApp automations to capture missed leads and bookings.
-* 🦾 **[Universal Frontier Harness](https://github.com/dopesir/universal-frontier-harness)** — A zero-dependency Python operational kernel and AST linter that prevents AI coding assistants from prematurely marking tasks as complete.
+* 🦾 **[Universal Frontier Harness](https://github.com/dopesir/universal-frontier-harness)** (v7.0.1) — A zero-dependency Python operational kernel and AST linter that prevents AI coding assistants from prematurely marking tasks as complete.
 
 ---
 
